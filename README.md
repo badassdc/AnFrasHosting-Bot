@@ -1,4 +1,4 @@
-# ArtiomsHosting Bot Manager
+# AnFra Nodes Bot Manager
 
 Bot setup:
 - Edit the config-example.json into config.json 
